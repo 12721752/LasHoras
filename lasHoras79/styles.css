@@ -1,1 +1,28 @@
 @charset "UTF-8";
+
+body {
+	background-color: #e9b96e
+}
+
+p.azul{
+	
+	color: blue
+}
+#titulo {
+	size: 28px
+}
+h2.izquierda {
+	
+	text-align: left
+}
+h2.centro {
+	
+	text-align: center
+}
+h2.derecha {
+	
+	text-align: right
+}
+img {
+	width: 200px
+}
