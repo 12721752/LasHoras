@@ -9,7 +9,14 @@ p.azul{
 	color: blue
 }
 #titulo {
-	size: 28px
+	font-family: Times New Roman;
+	size: 50px;
+	text-align: center
+}
+#cafe {
+	
+	margin: 200px;
+	color: red
 }
 h2.izquierda {
 	
